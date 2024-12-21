@@ -1,0 +1,22 @@
+[
+  {
+    "modid": "lemonclient",
+    "name": "LemonClient",
+    "description": "leakd by hypinohaizin",
+    "version": "0.0.8",
+    "mcversion": "1.12.2",
+    "url": "https://discord.gg/9URd8JeBtP",
+    "updateUrl": "https://discord.gg/9URd8JeBtP",
+    "logoFile": "assets/lemonclient/lemonclient.png",
+    "authorList": ["Cute_Lemon_OwO"],
+    "credits": "Lemon",
+    "screenshots": [],
+    "dependencies": []
+  },
+  {
+    "modid": "peek",
+    "name": "PeekBypass",
+    "version": "v1.0",
+    "mcversion": "1.12.2"
+  }
+]
